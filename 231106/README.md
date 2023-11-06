@@ -8,11 +8,15 @@
 
 |총 문제수|획득 경험치|연속 학습|
 |---:|---:|---|
-1|0xp|0일째🔥|
+1|0xp|0일째❄️|
 
-|교재|이름|난이도|경험치|제출코드|
-|---|---|:---:|---|---|
-|[Novice Low / 출력 / 다른 변수로부터 값 변경](https://www.codetree.ai/missions?missionId=4)|[변수 값 교체하기 2](https://www.codetree.ai/missions/4/problems/replacing-variable-values-2)|![쉬움][easy]|10xp|[링크](https://github.com/chavokim/codetree-TILs/blob/main/231106/replacing-variable-values-2/replacing-variable-values-2.py)|
+|교재|이름|난이도|상태|최근 제출 코드|
+|---|---|:---:|:---:|---|
+|[Novice Low / 출력 / 다른 변수로부터 값 변경](https://www.codetree.ai/missions?missionId=4)|[변수 값 교체하기 2](https://www.codetree.ai/missions/4/problems/replacing-variable-values-2)|![쉬움][easy]|![Failed][failed]|[링크](https://github.com/chavokim/codetree-TILs/blob/main/231106/replacing-variable-values-2/replacing-variable-values-2.py)|
+
+
+* 획득 경험치: 해설을 보지 않고 푼 문제에 한해 최초 1회 경험치를 획득하실 수 있습니다.
+* 연속 학습:fire:: 경험치를 획득한 날을 학습한 날로 인정합니다.
 
 
 
