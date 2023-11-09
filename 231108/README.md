@@ -1,18 +1,23 @@
 # 📖 학습하기
 
 ## 📚 단계별 학습
-23년 11월 08일 목표(90px)까지 80px 남았습니다.
+23년 11월 08일 목표(90px)까지 30px 남았습니다.
 
-![10xp](https://img.shields.io/badge/EXP-10xp-%235cb85c.svg?for-the-badge)
+![60xp](https://img.shields.io/badge/EXP-60xp-%235cb85c.svg?for-the-badge)
 ![1일째](https://img.shields.io/badge/연속학습-1일째-%23E34F26.svg?for-the-badge)
 
 |총 문제수|획득 경험치|연속 학습|
 |---:|---:|---|
-1|10xp|1일째🔥|
+6|60xp|1일째🔥|
 
 |교재|이름|난이도|상태|최근 제출 코드|
 |---|---|:---:|:---:|---|
 |[Novice Low / 출력 / 변수 값 변경](https://www.codetree.ai/missions?missionId=4)|[[연습]변수 값 교체하기 4](https://www.codetree.ai/missions/4/problems/replacing-variable-values-4)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/chavokim/codetree-TILs/blob/main/231108/%EB%B3%80%EC%88%98%20%EA%B0%92%20%EA%B5%90%EC%B2%B4%ED%95%98%EA%B8%B0%204/replacing-variable-values-4.py)|
+|[Novice Low / 출력 / 다른 변수로부터 값 변경](https://www.codetree.ai/missions?missionId=4)|[[개념]변수 값 교체하기 2](https://www.codetree.ai/missions/4/problems/replacing-variable-values-2)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/chavokim/codetree-TILs/blob/main/231108/%EB%B3%80%EC%88%98%20%EA%B0%92%20%EA%B5%90%EC%B2%B4%ED%95%98%EA%B8%B0%202/replacing-variable-values-2.py)|
+|[Novice Low / 출력 / 다른 변수로부터 값 변경](https://www.codetree.ai/missions?missionId=4)|[[연습]변수 값 교체하기 5](https://www.codetree.ai/missions/4/problems/replacing-variable-values-5)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/chavokim/codetree-TILs/blob/main/231108/%EB%B3%80%EC%88%98%20%EA%B0%92%20%EA%B5%90%EC%B2%B4%ED%95%98%EA%B8%B0%205/replacing-variable-values-5.py)|
+|[Novice Low / 출력 / 두 변수 값을 교환](https://www.codetree.ai/missions?missionId=4)|[[개념]변수 값 교체하기 3](https://www.codetree.ai/missions/4/problems/replacing-variable-values-3)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/chavokim/codetree-TILs/blob/main/231108/%EB%B3%80%EC%88%98%20%EA%B0%92%20%EA%B5%90%EC%B2%B4%ED%95%98%EA%B8%B0%203/replacing-variable-values-3.py)|
+|[Novice Low / 출력 / 두 변수 값을 교환](https://www.codetree.ai/missions?missionId=4)|[[연습]변수 값 교체하기 6](https://www.codetree.ai/missions/4/problems/replacing-variable-values-6)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/chavokim/codetree-TILs/blob/main/231108/%EB%B3%80%EC%88%98%20%EA%B0%92%20%EA%B5%90%EC%B2%B4%ED%95%98%EA%B8%B0%206/replacing-variable-values-6.py)|
+|[Novice Low / 출력 / 변수값 동시에 복사](https://www.codetree.ai/missions?missionId=4)|[[개념]변수 값 복사하기](https://www.codetree.ai/missions/4/problems/copying-variable-values)|![쉬움][easy]|![Passed][passed]|[링크](https://github.com/chavokim/codetree-TILs/blob/main/231108/%EB%B3%80%EC%88%98%20%EA%B0%92%20%EB%B3%B5%EC%82%AC%ED%95%98%EA%B8%B0/copying-variable-values.py)|
 
 
 * 획득 경험치: 해설을 보지 않고 푼 문제에 한해 최초 1회 경험치를 획득하실 수 있습니다.
