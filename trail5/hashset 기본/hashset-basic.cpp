@@ -16,8 +16,7 @@ int main() {
         cin >> t >> a;
 
         if(t == "find") {
-            string ret = (s.find(a) != s.end()) ? "true" : "false";
-            cout << ret << endl;
+            cout << ((s.find(a) != s.end()) ? "true" : "false") << endl;
         }
 
         if(t == "add") {
